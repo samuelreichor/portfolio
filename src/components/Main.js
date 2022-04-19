@@ -75,6 +75,7 @@ const Center = styled.button`
   & > *:last-child {
     display: ${(props) => (props.click ? "none" : "inline-block")};
     padding-top: 1rem;
+    color: #000;
   }
 
   @media only screen and (max-width: 50em) {
