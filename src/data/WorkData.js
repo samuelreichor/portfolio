@@ -24,7 +24,7 @@ export const Work = [
         description:"Eine Landing Page für eine kleine Startup Idee. HTML und CSS kam hier zum Einsatz. Außerdem habe ich in diesem Projekt Bootstrap kennen gelernt.",
         tags:["html","Bootstrap","css"],
         
-        demo:"http://schoolbooster.netlify",
+        demo:"https://schoolbooster.netlify.app",
         github:"https://github.com/samuelreichor/SchoolBooster"
     },
    
