@@ -1,4 +1,4 @@
-import React, {Suspense, lazy} from 'react'
+import React, {lazy} from 'react'
 import { ThemeProvider } from 'styled-components'
 import {lightTheme, mediaQueries } from './Themes'
 import styled from 'styled-components'
