@@ -207,6 +207,7 @@ const Main = () => {
                 width={click ? 120 : 200}
                 height={click ? 120 : 200}
                 fill="currentColor"
+              
               />
             )}
 
